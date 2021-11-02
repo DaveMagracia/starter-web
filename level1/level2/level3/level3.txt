@@ -1,1 +1,0 @@
-First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack. (George Carrette) Before software can be reusable it first has to be usable. (Ralph Johnson) I think Microsoft named .Net so it wouldn’t show up in a Unix directory listing. (Oktal)
