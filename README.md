@@ -15,3 +15,6 @@ As stated, the purpose is to provide examples
 This is a simple web project
 
 ## How to Contribute
+
+### Copyright
+
